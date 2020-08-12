@@ -1,0 +1,2 @@
+os/build/*
+!os/build/conf

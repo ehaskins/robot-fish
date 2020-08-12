@@ -1,0 +1,3 @@
+cd os/src/poky
+
+. oe-init-build-env ../../build
