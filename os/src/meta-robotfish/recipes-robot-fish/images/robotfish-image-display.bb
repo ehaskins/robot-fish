@@ -4,6 +4,7 @@ LICENSE = "MIT"
 ROBOT_FISH_VERSION ?= "DEV"
 
 IMAGE_FEATURES_append = " \
+    x11-base \
     splash \
     ssh-server-dropbear \
     "

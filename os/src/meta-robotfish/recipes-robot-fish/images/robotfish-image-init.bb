@@ -5,7 +5,7 @@ SUMMARY = "Robot Fish Boot, Update and Recovery Image"
 IMAGE_FEATURES = "splash"
 IMAGE_LINGUAS = ""
 PACKAGE_INSTALL = "\
-    robot-fish-initramfs-init \
+    robotfish-initramfs-init \
     ${VIRTUAL-RUNTIME_base-utils} \
     "
 

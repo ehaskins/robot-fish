@@ -1,0 +1,1 @@
+convert-im6 robotfish-original.png -resize 800x480^ -gravity center -extent 800x480 robotfish-800x480.png

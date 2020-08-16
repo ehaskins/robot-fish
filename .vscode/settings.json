@@ -1,14 +1,10 @@
 {
-    "files.exclude": {
-        "os/build/**": true,
-        "os/build/conf": false
-    },
     "files.watcherExclude": {
-        "os/build/**": true,
-        "os/build/conf": false
+        "os/build/conf/**/*": false,
+        "os/build/**": true
     },
     "search.exclude": {
-        "os/build/**": true,
-        "os/build/conf": false
+        "os/build/conf/**/*": false,
+        "os/build/**": true
     }
 }
