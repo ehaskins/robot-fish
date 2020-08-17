@@ -9,6 +9,7 @@ SRC_URI = "\
 
 RDEPENDS_${PN} = "\
   e2fsprogs dosfstools \
+  util-linux-sfdisk \
   bash \
   "
 

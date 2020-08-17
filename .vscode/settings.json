@@ -6,5 +6,11 @@
     "search.exclude": {
         "os/build/conf/**/*": false,
         "os/build/**": true
-    }
+    },
+    "cSpell.words": [
+        "cmdline",
+        "exec'd",
+        "initramfs",
+        "squashfs"
+    ]
 }
