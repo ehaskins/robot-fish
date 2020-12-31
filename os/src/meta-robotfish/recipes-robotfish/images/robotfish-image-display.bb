@@ -10,7 +10,6 @@ IMAGE_FEATURES_append = " \
     "
 
 CORE_IMAGE_EXTRA_INSTALL_append = "\
-    chromium-x11 \
     nodejs \
     rng-tools \
     sudo less \
