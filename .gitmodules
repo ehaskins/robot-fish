@@ -1,23 +1,23 @@
 [submodule "os/poky"]
 	path = os/src/poky
 	url = https://git.yoctoproject.org/git/poky
-	branch = dunfell
+	branch = hardknott
 [submodule "os/meta-raspberrypi"]
 	path = os/src/meta-raspberrypi
 	url = https://git.yoctoproject.org/git/meta-raspberrypi
-	branch = dunfell
+	branch = hardknott
 [submodule "os/meta-browser"]
 	path = os/src/meta-browser
 	url = https://github.com/OSSystems/meta-browser.git
 [submodule "os/meta-openembedded"]
 	path = os/src/meta-openembedded
 	url = git://git.openembedded.org/meta-openembedded
-	branch = dunfell
+	branch = hardknott
 [submodule "os/meta-clang"]
 	path = os/src/meta-clang
 	url = git://github.com/kraj/meta-clang
-	branch = dunfell
+	branch = hardknott
 [submodule "os/src/meta-python2"]
 	path = os/src/meta-python2
 	url = git://git.openembedded.org/meta-python2
-	branch = dunfell
+	branch = hardknott
